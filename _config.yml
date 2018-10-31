@@ -1,0 +1,11 @@
+# basic options
+title: Awesome Blog
+author: Cool Dude
+email: kevinl@uidaho.edu
+description: "Just my awesome blog"
+twitter_username: 
+github_username: klewallen
+
+# Build settings
+markdown: kramdown
+theme: minima
