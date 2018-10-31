@@ -8,4 +8,4 @@ github_username: klewallen
 
 # Build settings
 markdown: kramdown
-remote_theme: mmistakes/minimal-mistakes
+remote_theme: mmistakes/so-simple-theme
